@@ -15,5 +15,4 @@ Samples were
 - stained with hematoxylin and eosin (HE).
 - from colon tissue.
 
-Diagnosis was confirmed by a pathologist.
 
